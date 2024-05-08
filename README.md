@@ -1,4 +1,4 @@
-             ** 🔬 Regression Analysis On Yes Bank Stock Closing Price Prediction.**
+             [** 🔬 Regression Analysis On Yes Bank Stock Closing Price Prediction.**](https://github.com/Syed-Irfan-1165/Yes-Bank-Stock-Closing-Price-Prediction?tab=readme-ov-file#yes-bank-stock-closing-price-prediction)
 
 
              ![image](https://github.com/Deeraj-sudan/Yes-bank-Ml-capstone-Project/assets/149189094/525fdaaa-3c9a-44d5-b0a5-f07f466952e5)
