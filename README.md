@@ -1,7 +1,7 @@
 Yes Bank's Closing Price Prediction by Regression
 
 
-![Uploading image.png…]()
+![yes bank image](https://github.com/Deeraj-sudan/Yes-bank-Ml-capstone-Project/assets/149189094/f5e70417-f8d3-42d4-a006-d9015036f703)
 
 
 
